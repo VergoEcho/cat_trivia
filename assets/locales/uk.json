@@ -1,0 +1,11 @@
+{
+  "cat_fact_page": {
+    "fact_button": "Інший Факт!",
+    "history_button": "Попередні Факти",
+    "error": "Помилка: Стан Cat fact загублено"
+  },
+  "cat_history_page": {
+    "title": "Попередні Факти",
+    "error": "Помилка: Стан Cat history загублено"
+  }
+}

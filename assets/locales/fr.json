@@ -1,0 +1,11 @@
+{
+  "cat_fact_page": {
+    "fact_button": "Un autre fait!",
+    "history_button": "Historique des faits",
+    "error": "Erreur: l'état 'Cat Fact' du chat est perdu"
+  },
+  "cat_history_page": {
+    "title": "Historique des faits",
+    "error": "Erreur: l'état 'Cat History' du chat est perdu"
+  }
+}

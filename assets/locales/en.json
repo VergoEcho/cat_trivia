@@ -1,0 +1,11 @@
+{
+  "cat_fact_page": {
+    "fact_button": "Another Fact!",
+    "history_button": "Fact History",
+    "error": "Error: Cat fact state is loosed"
+  },
+  "cat_history_page": {
+    "title": "Fact History",
+    "error": "Error: Cat history state is loosed"
+  }
+}
